@@ -22,7 +22,7 @@ To introduce home service functionality, the `add_marker.sh` script is utilized.
 ├── add_markers                                   # add_markers package        
 │   ├── src
 │   │   ├── add_markers.cpp                       
-│   │   ├── add_markers_test.cpp                  # for testing add_markers node purpose
+│   │   ├── add_markers_pick_up.cpp                  # for testing add_markers node purpose
 ├── map                                           # map and world file       
 ├── pick_objects                                  # pick_objects package     
 │   ├── src                                       
